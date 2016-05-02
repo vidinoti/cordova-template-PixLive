@@ -1,0 +1,20 @@
+{
+  "name": "cordova-template-pixlive",
+  "version": "1.0.0",
+  "description": "Cordova template for augmented reality app using PixLive SDK",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vidinoti/cordova-template-PixLive.git"
+  },
+  "main": "index.js",
+  "keywords": [
+    "augmented reality",
+    "iBeacon",
+    "pixlive",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Vidinoti",
+  "license": "MIT"
+}
