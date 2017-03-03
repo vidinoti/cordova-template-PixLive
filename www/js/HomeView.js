@@ -40,7 +40,7 @@ var HomeView = function (openArView) {
     		elem.removeEventListener("click", openArView );
     	}
     	if( elem = document.getElementById("homeView") ) {
-    		elem.remove();
+    		elem.parentNode.removeChild( elem );
     	}
     };
 
